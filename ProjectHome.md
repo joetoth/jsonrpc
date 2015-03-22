@@ -1,0 +1,1 @@
+A JSON drop in replacement for GWT's default RPC mechanism. Use a JSON backend as you normally would.
